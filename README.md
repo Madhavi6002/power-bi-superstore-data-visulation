@@ -2,22 +2,25 @@
 
 My explanation of all power bi concepts using superstore data can be found here:
 
-1)Basic Charts in Power BI
 
-2)How to Create a Map in Power BI
+1)Introduction
 
-3)How to Change Background in Power BI Map
 
-4)How to Create India Map on Power BI
 
-5)How to Create Australia Map on Power BI
 
-6)Table and Matrix in Power BI
 
-7)Subtotal and Total in Matrix
+2)Basic Charts in Power BI
 
-8)Other Charts in Power BI Desktop
+3)How to Create a Map in Power BI
+-How to Change Background in Power BI Map
+-How to Create India Map on Power BI 	
+-How to Create Australia Map on Power BI
 
-9)Cards and Filters in Power BI
+4)Table and Matrix in Power BI
+-Subtotal and Total in Matrix
 
-10)Slicers in Power BI
+5)Other Charts in Power BI Desktop
+
+6)Cards and Filters in Power BI
+
+7)Slicers in Power BI
